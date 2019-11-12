@@ -7,6 +7,6 @@ def walk
  end 
 end 
 
-kiki = Person.new 
-kiki.talk
-kiki.walk 
+ada = Person.new 
+ada.talk
+ada.walk 
